@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: 2946f08dcbed38048a0431b782adcf9d
+timeCreated: 1627690293
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frisk_spritesheet_0
+    21300002: frisk_spritesheet_1
+    21300004: frisk_spritesheet_2
+    21300006: frisk_spritesheet_3
+    21300008: frisk_spritesheet_4
+    21300010: frisk_spritesheet_5
+    21300012: frisk_spritesheet_6
+    21300014: frisk_spritesheet_7
+    21300016: frisk_spritesheet_8
+    21300018: frisk_spritesheet_9
+    21300020: frisk_spritesheet_10
+    21300022: frisk_spritesheet_11
+    21300024: frisk_spritesheet_12
+    21300026: frisk_spritesheet_13
+    21300028: frisk_spritesheet_14
+    21300030: frisk_spritesheet_15
+    21300032: frisk_spritesheet_16
+    21300034: frisk_spritesheet_17
+    21300036: frisk_spritesheet_18
+    21300038: frisk_spritesheet_19
+    21300040: frisk_spritesheet_20
+    21300042: frisk_spritesheet_21
+    21300044: frisk_spritesheet_22
+    21300046: frisk_spritesheet_23
+    21300048: frisk_spritesheet_24
+    21300050: frisk_spritesheet_25
+    21300052: frisk_spritesheet_26
+    21300054: frisk_spritesheet_27
+    21300056: frisk_spritesheet_28
+    21300058: frisk_spritesheet_29
+    21300060: frisk_spritesheet_30
+    21300062: frisk_spritesheet_31
+    21300064: frisk_spritesheet_32
+    21300066: frisk_spritesheet_33
+    21300068: frisk_spritesheet_34
+    21300070: frisk_spritesheet_35
+    21300072: frisk_spritesheet_36
+    21300074: frisk_spritesheet_37
+    21300076: frisk_spritesheet_38
+    21300078: frisk_spritesheet_39
+    21300080: frisk_spritesheet_40
+    21300082: frisk_spritesheet_41
+    21300084: frisk_spritesheet_42
+    21300086: frisk_spritesheet_43
+    21300088: frisk_spritesheet_44
+    21300090: frisk_spritesheet_45
+    21300092: frisk_spritesheet_46
+    21300094: frisk_spritesheet_47
+    21300096: frisk_spritesheet_48
+    21300098: frisk_spritesheet_49
+    21300100: frisk_spritesheet_50
+    21300102: frisk_spritesheet_51
+    21300104: frisk_spritesheet_52
+    21300106: frisk_spritesheet_53
+    21300108: frisk_spritesheet_54
+    21300110: frisk_spritesheet_55
+    21300112: frisk_spritesheet_56
+    21300114: frisk_spritesheet_57
+    21300116: frisk_spritesheet_58
+    21300118: frisk_spritesheet_59
+    21300120: frisk_spritesheet_60
+    21300122: frisk_spritesheet_61
+    21300124: frisk_spritesheet_62
+    21300126: frisk_spritesheet_63
+    21300128: frisk_spritesheet_64
+    21300130: frisk_spritesheet_65
+    21300132: frisk_spritesheet_66
+    21300134: frisk_spritesheet_67
+    21300136: frisk_spritesheet_68
+    21300138: frisk_spritesheet_69
+    21300140: frisk_spritesheet_70
+    21300142: frisk_spritesheet_71
+    21300144: frisk_spritesheet_72
+    21300146: frisk_spritesheet_73
+    21300148: frisk_spritesheet_74
+    21300150: frisk_spritesheet_75
+    21300152: frisk_spritesheet_76
+    21300154: frisk_spritesheet_77
+    21300156: frisk_spritesheet_78
+    21300158: frisk_spritesheet_79
+    21300160: frisk_spritesheet_80
+    21300162: frisk_spritesheet_81
+    21300164: frisk_spritesheet_82
+    21300166: frisk_spritesheet_83
+    21300168: frisk_spritesheet_84
+    21300170: frisk_spritesheet_85
+    21300172: frisk_spritesheet_86
+    21300174: frisk_spritesheet_87
+    21300176: frisk_spritesheet_88
+    21300178: frisk_spritesheet_89
+    21300180: frisk_spritesheet_90
+    21300182: frisk_spritesheet_91
+    21300184: frisk_spritesheet_92
+    21300186: frisk_spritesheet_93
+    21300188: frisk_spritesheet_94
+    21300190: frisk_spritesheet_95
+    21300192: frisk_spritesheet_96
+    21300194: frisk_spritesheet_97
+    21300196: frisk_spritesheet_98
+    21300198: frisk_spritesheet_99
+    21300200: frisk_spritesheet_100
+    21300202: frisk_spritesheet_101
+    21300204: frisk_spritesheet_102
+    21300206: frisk_spritesheet_103
+    21300208: frisk_spritesheet_104
+    21300210: frisk_spritesheet_105
+    21300212: frisk_spritesheet_106
+    21300214: frisk_spritesheet_107
+    21300216: frisk_spritesheet_108
+    21300218: frisk_spritesheet_109
+    21300220: frisk_spritesheet_110
+    21300222: frisk_spritesheet_111
+    21300224: frisk_spritesheet_112
+    21300226: frisk_spritesheet_113
+    21300228: frisk_spritesheet_114
+    21300230: frisk_spritesheet_115
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 29
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frisk_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1887
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1887
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1887
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1887
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1837
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1837
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1837
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1837
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1788
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1787
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1737
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1738
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1687
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1688
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1637
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1638
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1587
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1587
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1587
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1587
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1537
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1537
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1537
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1537
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1487
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1487
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1487
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1487
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1437
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1438
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1387
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1388
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1337
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1337
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1337
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1337
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1287
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1287
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1287
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1287
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1237
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1238
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1187
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1188
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1137
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1137
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1137
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1137
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1087
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1087
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1087
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1087
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1037
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1038
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 987
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 988
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 937
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 937
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 937
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 937
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 876
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 876
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 876
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 876
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 815
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 816
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 754
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 755
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 693
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 693
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 693
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 693
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 631
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 631
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 631
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 631
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 569
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 569
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 507
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 507
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 445
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 445
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 445
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 445
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 395
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 395
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 395
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 395
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 345
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 346
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 295
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 296
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 245
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 245
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 245
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 245
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 195
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 195
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 195
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 195
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 195
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 195
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 195
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 155
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 157
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 157
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 105
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 106
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 55
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frisk_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 20
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
